@@ -1,0 +1,43 @@
+C:\Users\markos\source\repos\DigitalLibrary\DigitalLibrary\bin\Debug\net6.0\DigitalLibrary.deps.json
+C:\Users\markos\source\repos\DigitalLibrary\DigitalLibrary\bin\Debug\net6.0\DigitalLibrary.runtimeconfig.json
+C:\Users\markos\source\repos\DigitalLibrary\DigitalLibrary\bin\Debug\net6.0\DigitalLibrary.dll
+C:\Users\markos\source\repos\DigitalLibrary\DigitalLibrary\bin\Debug\net6.0\DigitalLibrary.pdb
+C:\Users\markos\source\repos\DigitalLibrary\DigitalLibrary\obj\Debug\net6.0\DigitalLibrary.csproj.AssemblyReference.cache
+C:\Users\markos\source\repos\DigitalLibrary\DigitalLibrary\obj\Debug\net6.0\DigitalLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\markos\source\repos\DigitalLibrary\DigitalLibrary\obj\Debug\net6.0\DigitalLibrary.AssemblyInfoInputs.cache
+C:\Users\markos\source\repos\DigitalLibrary\DigitalLibrary\obj\Debug\net6.0\DigitalLibrary.AssemblyInfo.cs
+C:\Users\markos\source\repos\DigitalLibrary\DigitalLibrary\obj\Debug\net6.0\DigitalLibrary.csproj.CoreCompileInputs.cache
+C:\Users\markos\source\repos\DigitalLibrary\DigitalLibrary\obj\Debug\net6.0\DigitalLibrary.dll
+C:\Users\markos\source\repos\DigitalLibrary\DigitalLibrary\obj\Debug\net6.0\refint\DigitalLibrary.dll
+C:\Users\markos\source\repos\DigitalLibrary\DigitalLibrary\obj\Debug\net6.0\DigitalLibrary.pdb
+C:\Users\markos\source\repos\DigitalLibrary\DigitalLibrary\obj\Debug\net6.0\DigitalLibrary.genruntimeconfig.cache
+C:\Users\markos\source\repos\DigitalLibrary\DigitalLibrary\obj\Debug\net6.0\ref\DigitalLibrary.dll
+C:\Users\Lenovo IP3\Desktop\DigitalLibray\DigitalLibrary\DigitalLibrary\bin\Debug\net6.0\DigitalLibrary.deps.json
+C:\Users\Lenovo IP3\Desktop\DigitalLibray\DigitalLibrary\DigitalLibrary\bin\Debug\net6.0\DigitalLibrary.runtimeconfig.json
+C:\Users\Lenovo IP3\Desktop\DigitalLibray\DigitalLibrary\DigitalLibrary\bin\Debug\net6.0\DigitalLibrary.dll
+C:\Users\Lenovo IP3\Desktop\DigitalLibray\DigitalLibrary\DigitalLibrary\bin\Debug\net6.0\DigitalLibrary.pdb
+C:\Users\Lenovo IP3\Desktop\DigitalLibray\DigitalLibrary\DigitalLibrary\obj\Debug\net6.0\DigitalLibrary.csproj.AssemblyReference.cache
+C:\Users\Lenovo IP3\Desktop\DigitalLibray\DigitalLibrary\DigitalLibrary\obj\Debug\net6.0\DigitalLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo IP3\Desktop\DigitalLibray\DigitalLibrary\DigitalLibrary\obj\Debug\net6.0\DigitalLibrary.AssemblyInfoInputs.cache
+C:\Users\Lenovo IP3\Desktop\DigitalLibray\DigitalLibrary\DigitalLibrary\obj\Debug\net6.0\DigitalLibrary.AssemblyInfo.cs
+C:\Users\Lenovo IP3\Desktop\DigitalLibray\DigitalLibrary\DigitalLibrary\obj\Debug\net6.0\DigitalLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo IP3\Desktop\DigitalLibray\DigitalLibrary\DigitalLibrary\obj\Debug\net6.0\DigitalLibrary.dll
+C:\Users\Lenovo IP3\Desktop\DigitalLibray\DigitalLibrary\DigitalLibrary\obj\Debug\net6.0\refint\DigitalLibrary.dll
+C:\Users\Lenovo IP3\Desktop\DigitalLibray\DigitalLibrary\DigitalLibrary\obj\Debug\net6.0\DigitalLibrary.pdb
+C:\Users\Lenovo IP3\Desktop\DigitalLibray\DigitalLibrary\DigitalLibrary\obj\Debug\net6.0\DigitalLibrary.genruntimeconfig.cache
+C:\Users\Lenovo IP3\Desktop\DigitalLibray\DigitalLibrary\DigitalLibrary\obj\Debug\net6.0\ref\DigitalLibrary.dll
+C:\Users\Lenovo IP3\SSMS\DigitalLibray\DigitalLibrary\DigitalLibrary\bin\Debug\net6.0\DigitalLibrary.deps.json
+C:\Users\Lenovo IP3\SSMS\DigitalLibray\DigitalLibrary\DigitalLibrary\bin\Debug\net6.0\DigitalLibrary.runtimeconfig.json
+C:\Users\Lenovo IP3\SSMS\DigitalLibray\DigitalLibrary\DigitalLibrary\bin\Debug\net6.0\DigitalLibrary.dll
+C:\Users\Lenovo IP3\SSMS\DigitalLibray\DigitalLibrary\DigitalLibrary\bin\Debug\net6.0\DigitalLibrary.pdb
+C:\Users\Lenovo IP3\SSMS\DigitalLibray\DigitalLibrary\DigitalLibrary\obj\Debug\net6.0\DigitalLibrary.csproj.AssemblyReference.cache
+C:\Users\Lenovo IP3\SSMS\DigitalLibray\DigitalLibrary\DigitalLibrary\obj\Debug\net6.0\DigitalLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo IP3\SSMS\DigitalLibray\DigitalLibrary\DigitalLibrary\obj\Debug\net6.0\DigitalLibrary.AssemblyInfoInputs.cache
+C:\Users\Lenovo IP3\SSMS\DigitalLibray\DigitalLibrary\DigitalLibrary\obj\Debug\net6.0\DigitalLibrary.AssemblyInfo.cs
+C:\Users\Lenovo IP3\SSMS\DigitalLibray\DigitalLibrary\DigitalLibrary\obj\Debug\net6.0\DigitalLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo IP3\SSMS\DigitalLibray\DigitalLibrary\DigitalLibrary\obj\Debug\net6.0\DigitalLibrary.dll
+C:\Users\Lenovo IP3\SSMS\DigitalLibray\DigitalLibrary\DigitalLibrary\obj\Debug\net6.0\refint\DigitalLibrary.dll
+C:\Users\Lenovo IP3\SSMS\DigitalLibray\DigitalLibrary\DigitalLibrary\obj\Debug\net6.0\DigitalLibrary.pdb
+C:\Users\Lenovo IP3\SSMS\DigitalLibray\DigitalLibrary\DigitalLibrary\obj\Debug\net6.0\DigitalLibrary.genruntimeconfig.cache
+C:\Users\Lenovo IP3\SSMS\DigitalLibray\DigitalLibrary\DigitalLibrary\obj\Debug\net6.0\ref\DigitalLibrary.dll
+C:\Users\Lenovo IP3\Desktop\DigitalLibray\DigitalLibrary\DigitalLibrary\obj\Debug\net6.0\DigitalLibrary.sourcelink.json

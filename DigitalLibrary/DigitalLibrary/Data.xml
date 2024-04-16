@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConnectionSettings>
+	<ConnectionString>Data Source=DESKTOP-QAQGGK3;Initial Catalog=DigitalLibrary;Integrated Security=True;TrustServerCertificate=True</ConnectionString>
+</ConnectionSettings>

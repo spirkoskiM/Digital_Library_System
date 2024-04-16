@@ -1,0 +1,241 @@
+C:\Users\markos\source\repos\DigitalLibrary\Forma\bin\Debug\net6.0-windows\Forms.exe
+C:\Users\markos\source\repos\DigitalLibrary\Forma\bin\Debug\net6.0-windows\Forms.deps.json
+C:\Users\markos\source\repos\DigitalLibrary\Forma\bin\Debug\net6.0-windows\Forms.runtimeconfig.json
+C:\Users\markos\source\repos\DigitalLibrary\Forma\bin\Debug\net6.0-windows\Forms.dll
+C:\Users\markos\source\repos\DigitalLibrary\Forma\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\markos\source\repos\DigitalLibrary\Forma\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\markos\source\repos\DigitalLibrary\Forma\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\markos\source\repos\DigitalLibrary\Forma\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\markos\source\repos\DigitalLibrary\Forma\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\markos\source\repos\DigitalLibrary\Forma\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\markos\source\repos\DigitalLibrary\Forma\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\markos\source\repos\DigitalLibrary\Forma\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\markos\source\repos\DigitalLibrary\Forma\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\markos\source\repos\DigitalLibrary\Forma\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\markos\source\repos\DigitalLibrary\Forma\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\markos\source\repos\DigitalLibrary\Forma\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\markos\source\repos\DigitalLibrary\Forma\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\markos\source\repos\DigitalLibrary\Forma\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\markos\source\repos\DigitalLibrary\Forma\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\markos\source\repos\DigitalLibrary\Forma\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\markos\source\repos\DigitalLibrary\Forma\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\markos\source\repos\DigitalLibrary\Forma\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\markos\source\repos\DigitalLibrary\Forma\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\markos\source\repos\DigitalLibrary\Forma\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\markos\source\repos\DigitalLibrary\Forma\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\markos\source\repos\DigitalLibrary\Forma\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\markos\source\repos\DigitalLibrary\Forma\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\markos\source\repos\DigitalLibrary\Forma\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\markos\source\repos\DigitalLibrary\Forma\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\markos\source\repos\DigitalLibrary\Forma\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\markos\source\repos\DigitalLibrary\Forma\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\markos\source\repos\DigitalLibrary\Forma\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\markos\source\repos\DigitalLibrary\Forma\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\markos\source\repos\DigitalLibrary\Forma\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+C:\Users\markos\source\repos\DigitalLibrary\Forma\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\markos\source\repos\DigitalLibrary\Forma\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\markos\source\repos\DigitalLibrary\Forma\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\markos\source\repos\DigitalLibrary\Forma\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\markos\source\repos\DigitalLibrary\Forma\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\markos\source\repos\DigitalLibrary\Forma\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\markos\source\repos\DigitalLibrary\Forma\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\markos\source\repos\DigitalLibrary\Forma\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\markos\source\repos\DigitalLibrary\Forma\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\markos\source\repos\DigitalLibrary\Forma\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\markos\source\repos\DigitalLibrary\Forma\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\markos\source\repos\DigitalLibrary\Forma\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\markos\source\repos\DigitalLibrary\Forma\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\markos\source\repos\DigitalLibrary\Forma\bin\Debug\net6.0-windows\DigitalLibrary.dll
+C:\Users\markos\source\repos\DigitalLibrary\Forma\bin\Debug\net6.0-windows\DigitalLibrary.pdb
+C:\Users\markos\source\repos\DigitalLibrary\Forma\obj\Debug\net6.0-windows\Forms.csproj.AssemblyReference.cache
+C:\Users\markos\source\repos\DigitalLibrary\Forma\obj\Debug\net6.0-windows\Forms.AddAuthor.resources
+C:\Users\markos\source\repos\DigitalLibrary\Forma\obj\Debug\net6.0-windows\Forms.AddBranch.resources
+C:\Users\markos\source\repos\DigitalLibrary\Forma\obj\Debug\net6.0-windows\Forms.AddEmployee.resources
+C:\Users\markos\source\repos\DigitalLibrary\Forma\obj\Debug\net6.0-windows\Forms.Add_Book.resources
+C:\Users\markos\source\repos\DigitalLibrary\Forma\obj\Debug\net6.0-windows\Forms.Admin.resources
+C:\Users\markos\source\repos\DigitalLibrary\Forma\obj\Debug\net6.0-windows\Forms.BorrowedBooksReport.resources
+C:\Users\markos\source\repos\DigitalLibrary\Forma\obj\Debug\net6.0-windows\Forms.ChangePassword.resources
+C:\Users\markos\source\repos\DigitalLibrary\Forma\obj\Debug\net6.0-windows\Forms.EditBook.resources
+C:\Users\markos\source\repos\DigitalLibrary\Forma\obj\Debug\net6.0-windows\Forms.EditProfile.resources
+C:\Users\markos\source\repos\DigitalLibrary\Forma\obj\Debug\net6.0-windows\Forms.Employe.resources
+C:\Users\markos\source\repos\DigitalLibrary\Forma\obj\Debug\net6.0-windows\Forms.EmployeeReport.resources
+C:\Users\markos\source\repos\DigitalLibrary\Forma\obj\Debug\net6.0-windows\Forms.IssueBook.resources
+C:\Users\markos\source\repos\DigitalLibrary\Forma\obj\Debug\net6.0-windows\Forma.LoginForm.resources
+C:\Users\markos\source\repos\DigitalLibrary\Forma\obj\Debug\net6.0-windows\Forms.MyAccount.resources
+C:\Users\markos\source\repos\DigitalLibrary\Forma\obj\Debug\net6.0-windows\Forms.Properties.Resources.resources
+C:\Users\markos\source\repos\DigitalLibrary\Forma\obj\Debug\net6.0-windows\Forms.ReturnBook.resources
+C:\Users\markos\source\repos\DigitalLibrary\Forma\obj\Debug\net6.0-windows\Forms.ViewBook.resources
+C:\Users\markos\source\repos\DigitalLibrary\Forma\obj\Debug\net6.0-windows\Forms.ViewBookEmp.resources
+C:\Users\markos\source\repos\DigitalLibrary\Forma\obj\Debug\net6.0-windows\Forms.csproj.GenerateResource.cache
+C:\Users\markos\source\repos\DigitalLibrary\Forma\obj\Debug\net6.0-windows\Forms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\markos\source\repos\DigitalLibrary\Forma\obj\Debug\net6.0-windows\Forms.AssemblyInfoInputs.cache
+C:\Users\markos\source\repos\DigitalLibrary\Forma\obj\Debug\net6.0-windows\Forms.AssemblyInfo.cs
+C:\Users\markos\source\repos\DigitalLibrary\Forma\obj\Debug\net6.0-windows\Forms.csproj.CoreCompileInputs.cache
+C:\Users\markos\source\repos\DigitalLibrary\Forma\obj\Debug\net6.0-windows\Forms.csproj.CopyComplete
+C:\Users\markos\source\repos\DigitalLibrary\Forma\obj\Debug\net6.0-windows\Forms.dll
+C:\Users\markos\source\repos\DigitalLibrary\Forma\obj\Debug\net6.0-windows\refint\Forms.dll
+C:\Users\markos\source\repos\DigitalLibrary\Forma\obj\Debug\net6.0-windows\Forms.pdb
+C:\Users\markos\source\repos\DigitalLibrary\Forma\obj\Debug\net6.0-windows\Forms.genruntimeconfig.cache
+C:\Users\markos\source\repos\DigitalLibrary\Forma\bin\Debug\net6.0-windows\Forms.pdb
+C:\Users\markos\source\repos\DigitalLibrary\Forma\obj\Debug\net6.0-windows\ref\Forms.dll
+C:\Users\Lenovo IP3\Desktop\DigitalLibray\DigitalLibrary\Forma\bin\Debug\net6.0-windows\Forms.exe
+C:\Users\Lenovo IP3\Desktop\DigitalLibray\DigitalLibrary\Forma\bin\Debug\net6.0-windows\Forms.deps.json
+C:\Users\Lenovo IP3\Desktop\DigitalLibray\DigitalLibrary\Forma\bin\Debug\net6.0-windows\Forms.runtimeconfig.json
+C:\Users\Lenovo IP3\Desktop\DigitalLibray\DigitalLibrary\Forma\bin\Debug\net6.0-windows\Forms.dll
+C:\Users\Lenovo IP3\Desktop\DigitalLibray\DigitalLibrary\Forma\bin\Debug\net6.0-windows\Forms.pdb
+C:\Users\Lenovo IP3\Desktop\DigitalLibray\DigitalLibrary\Forma\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\Lenovo IP3\Desktop\DigitalLibray\DigitalLibrary\Forma\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\Lenovo IP3\Desktop\DigitalLibray\DigitalLibrary\Forma\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\Lenovo IP3\Desktop\DigitalLibray\DigitalLibrary\Forma\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Lenovo IP3\Desktop\DigitalLibray\DigitalLibrary\Forma\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Lenovo IP3\Desktop\DigitalLibray\DigitalLibrary\Forma\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Lenovo IP3\Desktop\DigitalLibray\DigitalLibrary\Forma\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Lenovo IP3\Desktop\DigitalLibray\DigitalLibrary\Forma\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Lenovo IP3\Desktop\DigitalLibray\DigitalLibrary\Forma\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Lenovo IP3\Desktop\DigitalLibray\DigitalLibrary\Forma\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Lenovo IP3\Desktop\DigitalLibray\DigitalLibrary\Forma\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Lenovo IP3\Desktop\DigitalLibray\DigitalLibrary\Forma\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Lenovo IP3\Desktop\DigitalLibray\DigitalLibrary\Forma\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Lenovo IP3\Desktop\DigitalLibray\DigitalLibrary\Forma\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Lenovo IP3\Desktop\DigitalLibray\DigitalLibrary\Forma\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Lenovo IP3\Desktop\DigitalLibray\DigitalLibrary\Forma\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Lenovo IP3\Desktop\DigitalLibray\DigitalLibrary\Forma\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Lenovo IP3\Desktop\DigitalLibray\DigitalLibrary\Forma\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Lenovo IP3\Desktop\DigitalLibray\DigitalLibrary\Forma\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Lenovo IP3\Desktop\DigitalLibray\DigitalLibrary\Forma\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Lenovo IP3\Desktop\DigitalLibray\DigitalLibrary\Forma\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Lenovo IP3\Desktop\DigitalLibray\DigitalLibrary\Forma\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Lenovo IP3\Desktop\DigitalLibray\DigitalLibrary\Forma\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Lenovo IP3\Desktop\DigitalLibray\DigitalLibrary\Forma\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Lenovo IP3\Desktop\DigitalLibray\DigitalLibrary\Forma\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Lenovo IP3\Desktop\DigitalLibray\DigitalLibrary\Forma\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Lenovo IP3\Desktop\DigitalLibray\DigitalLibrary\Forma\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Lenovo IP3\Desktop\DigitalLibray\DigitalLibrary\Forma\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Lenovo IP3\Desktop\DigitalLibray\DigitalLibrary\Forma\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Lenovo IP3\Desktop\DigitalLibray\DigitalLibrary\Forma\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+C:\Users\Lenovo IP3\Desktop\DigitalLibray\DigitalLibrary\Forma\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Lenovo IP3\Desktop\DigitalLibray\DigitalLibrary\Forma\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\Lenovo IP3\Desktop\DigitalLibray\DigitalLibrary\Forma\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\Lenovo IP3\Desktop\DigitalLibray\DigitalLibrary\Forma\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Lenovo IP3\Desktop\DigitalLibray\DigitalLibrary\Forma\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\Lenovo IP3\Desktop\DigitalLibray\DigitalLibrary\Forma\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Lenovo IP3\Desktop\DigitalLibray\DigitalLibrary\Forma\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Lenovo IP3\Desktop\DigitalLibray\DigitalLibrary\Forma\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lenovo IP3\Desktop\DigitalLibray\DigitalLibrary\Forma\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lenovo IP3\Desktop\DigitalLibray\DigitalLibrary\Forma\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lenovo IP3\Desktop\DigitalLibray\DigitalLibrary\Forma\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lenovo IP3\Desktop\DigitalLibray\DigitalLibrary\Forma\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Lenovo IP3\Desktop\DigitalLibray\DigitalLibrary\Forma\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Lenovo IP3\Desktop\DigitalLibray\DigitalLibrary\Forma\bin\Debug\net6.0-windows\DigitalLibrary.dll
+C:\Users\Lenovo IP3\Desktop\DigitalLibray\DigitalLibrary\Forma\bin\Debug\net6.0-windows\DigitalLibrary.pdb
+C:\Users\Lenovo IP3\Desktop\DigitalLibray\DigitalLibrary\Forma\obj\Debug\net6.0-windows\Forms.csproj.AssemblyReference.cache
+C:\Users\Lenovo IP3\Desktop\DigitalLibray\DigitalLibrary\Forma\obj\Debug\net6.0-windows\Forms.AddAuthor.resources
+C:\Users\Lenovo IP3\Desktop\DigitalLibray\DigitalLibrary\Forma\obj\Debug\net6.0-windows\Forms.AddBranch.resources
+C:\Users\Lenovo IP3\Desktop\DigitalLibray\DigitalLibrary\Forma\obj\Debug\net6.0-windows\Forms.AddEmployee.resources
+C:\Users\Lenovo IP3\Desktop\DigitalLibray\DigitalLibrary\Forma\obj\Debug\net6.0-windows\Forms.Add_Book.resources
+C:\Users\Lenovo IP3\Desktop\DigitalLibray\DigitalLibrary\Forma\obj\Debug\net6.0-windows\Forms.Admin.resources
+C:\Users\Lenovo IP3\Desktop\DigitalLibray\DigitalLibrary\Forma\obj\Debug\net6.0-windows\Forms.BorrowedBooksReport.resources
+C:\Users\Lenovo IP3\Desktop\DigitalLibray\DigitalLibrary\Forma\obj\Debug\net6.0-windows\Forms.ChangePassword.resources
+C:\Users\Lenovo IP3\Desktop\DigitalLibray\DigitalLibrary\Forma\obj\Debug\net6.0-windows\Forms.EditBook.resources
+C:\Users\Lenovo IP3\Desktop\DigitalLibray\DigitalLibrary\Forma\obj\Debug\net6.0-windows\Forms.EditProfile.resources
+C:\Users\Lenovo IP3\Desktop\DigitalLibray\DigitalLibrary\Forma\obj\Debug\net6.0-windows\Forms.Employe.resources
+C:\Users\Lenovo IP3\Desktop\DigitalLibray\DigitalLibrary\Forma\obj\Debug\net6.0-windows\Forms.EmployeeReport.resources
+C:\Users\Lenovo IP3\Desktop\DigitalLibray\DigitalLibrary\Forma\obj\Debug\net6.0-windows\Forms.IssueBook.resources
+C:\Users\Lenovo IP3\Desktop\DigitalLibray\DigitalLibrary\Forma\obj\Debug\net6.0-windows\Forma.LoginForm.resources
+C:\Users\Lenovo IP3\Desktop\DigitalLibray\DigitalLibrary\Forma\obj\Debug\net6.0-windows\Forms.MyAccount.resources
+C:\Users\Lenovo IP3\Desktop\DigitalLibray\DigitalLibrary\Forma\obj\Debug\net6.0-windows\Forms.Properties.Resources.resources
+C:\Users\Lenovo IP3\Desktop\DigitalLibray\DigitalLibrary\Forma\obj\Debug\net6.0-windows\Forms.ReturnBook.resources
+C:\Users\Lenovo IP3\Desktop\DigitalLibray\DigitalLibrary\Forma\obj\Debug\net6.0-windows\Forms.ViewBook.resources
+C:\Users\Lenovo IP3\Desktop\DigitalLibray\DigitalLibrary\Forma\obj\Debug\net6.0-windows\Forms.ViewBookEmp.resources
+C:\Users\Lenovo IP3\Desktop\DigitalLibray\DigitalLibrary\Forma\obj\Debug\net6.0-windows\Forms.csproj.GenerateResource.cache
+C:\Users\Lenovo IP3\Desktop\DigitalLibray\DigitalLibrary\Forma\obj\Debug\net6.0-windows\Forms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo IP3\Desktop\DigitalLibray\DigitalLibrary\Forma\obj\Debug\net6.0-windows\Forms.AssemblyInfoInputs.cache
+C:\Users\Lenovo IP3\Desktop\DigitalLibray\DigitalLibrary\Forma\obj\Debug\net6.0-windows\Forms.AssemblyInfo.cs
+C:\Users\Lenovo IP3\Desktop\DigitalLibray\DigitalLibrary\Forma\obj\Debug\net6.0-windows\Forms.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo IP3\Desktop\DigitalLibray\DigitalLibrary\Forma\obj\Debug\net6.0-windows\Forms.csproj.Up2Date
+C:\Users\Lenovo IP3\Desktop\DigitalLibray\DigitalLibrary\Forma\obj\Debug\net6.0-windows\Forms.dll
+C:\Users\Lenovo IP3\Desktop\DigitalLibray\DigitalLibrary\Forma\obj\Debug\net6.0-windows\refint\Forms.dll
+C:\Users\Lenovo IP3\Desktop\DigitalLibray\DigitalLibrary\Forma\obj\Debug\net6.0-windows\Forms.pdb
+C:\Users\Lenovo IP3\Desktop\DigitalLibray\DigitalLibrary\Forma\obj\Debug\net6.0-windows\Forms.genruntimeconfig.cache
+C:\Users\Lenovo IP3\Desktop\DigitalLibray\DigitalLibrary\Forma\obj\Debug\net6.0-windows\ref\Forms.dll
+C:\Users\Lenovo IP3\SSMS\DigitalLibray\DigitalLibrary\Forma\bin\Debug\net6.0-windows\Forms.exe
+C:\Users\Lenovo IP3\SSMS\DigitalLibray\DigitalLibrary\Forma\bin\Debug\net6.0-windows\Forms.deps.json
+C:\Users\Lenovo IP3\SSMS\DigitalLibray\DigitalLibrary\Forma\bin\Debug\net6.0-windows\Forms.runtimeconfig.json
+C:\Users\Lenovo IP3\SSMS\DigitalLibray\DigitalLibrary\Forma\bin\Debug\net6.0-windows\Forms.dll
+C:\Users\Lenovo IP3\SSMS\DigitalLibray\DigitalLibrary\Forma\bin\Debug\net6.0-windows\Forms.pdb
+C:\Users\Lenovo IP3\SSMS\DigitalLibray\DigitalLibrary\Forma\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\Lenovo IP3\SSMS\DigitalLibray\DigitalLibrary\Forma\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\Lenovo IP3\SSMS\DigitalLibray\DigitalLibrary\Forma\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\Lenovo IP3\SSMS\DigitalLibray\DigitalLibrary\Forma\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Lenovo IP3\SSMS\DigitalLibray\DigitalLibrary\Forma\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Lenovo IP3\SSMS\DigitalLibray\DigitalLibrary\Forma\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Lenovo IP3\SSMS\DigitalLibray\DigitalLibrary\Forma\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Lenovo IP3\SSMS\DigitalLibray\DigitalLibrary\Forma\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Lenovo IP3\SSMS\DigitalLibray\DigitalLibrary\Forma\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Lenovo IP3\SSMS\DigitalLibray\DigitalLibrary\Forma\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Lenovo IP3\SSMS\DigitalLibray\DigitalLibrary\Forma\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Lenovo IP3\SSMS\DigitalLibray\DigitalLibrary\Forma\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Lenovo IP3\SSMS\DigitalLibray\DigitalLibrary\Forma\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Lenovo IP3\SSMS\DigitalLibray\DigitalLibrary\Forma\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Lenovo IP3\SSMS\DigitalLibray\DigitalLibrary\Forma\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Lenovo IP3\SSMS\DigitalLibray\DigitalLibrary\Forma\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Lenovo IP3\SSMS\DigitalLibray\DigitalLibrary\Forma\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Lenovo IP3\SSMS\DigitalLibray\DigitalLibrary\Forma\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Lenovo IP3\SSMS\DigitalLibray\DigitalLibrary\Forma\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Lenovo IP3\SSMS\DigitalLibray\DigitalLibrary\Forma\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Lenovo IP3\SSMS\DigitalLibray\DigitalLibrary\Forma\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Lenovo IP3\SSMS\DigitalLibray\DigitalLibrary\Forma\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Lenovo IP3\SSMS\DigitalLibray\DigitalLibrary\Forma\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Lenovo IP3\SSMS\DigitalLibray\DigitalLibrary\Forma\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Lenovo IP3\SSMS\DigitalLibray\DigitalLibrary\Forma\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Lenovo IP3\SSMS\DigitalLibray\DigitalLibrary\Forma\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Lenovo IP3\SSMS\DigitalLibray\DigitalLibrary\Forma\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Lenovo IP3\SSMS\DigitalLibray\DigitalLibrary\Forma\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Lenovo IP3\SSMS\DigitalLibray\DigitalLibrary\Forma\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Lenovo IP3\SSMS\DigitalLibray\DigitalLibrary\Forma\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+C:\Users\Lenovo IP3\SSMS\DigitalLibray\DigitalLibrary\Forma\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Lenovo IP3\SSMS\DigitalLibray\DigitalLibrary\Forma\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\Lenovo IP3\SSMS\DigitalLibray\DigitalLibrary\Forma\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\Lenovo IP3\SSMS\DigitalLibray\DigitalLibrary\Forma\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Lenovo IP3\SSMS\DigitalLibray\DigitalLibrary\Forma\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\Lenovo IP3\SSMS\DigitalLibray\DigitalLibrary\Forma\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Lenovo IP3\SSMS\DigitalLibray\DigitalLibrary\Forma\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Lenovo IP3\SSMS\DigitalLibray\DigitalLibrary\Forma\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lenovo IP3\SSMS\DigitalLibray\DigitalLibrary\Forma\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lenovo IP3\SSMS\DigitalLibray\DigitalLibrary\Forma\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lenovo IP3\SSMS\DigitalLibray\DigitalLibrary\Forma\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lenovo IP3\SSMS\DigitalLibray\DigitalLibrary\Forma\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Lenovo IP3\SSMS\DigitalLibray\DigitalLibrary\Forma\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Lenovo IP3\SSMS\DigitalLibray\DigitalLibrary\Forma\bin\Debug\net6.0-windows\DigitalLibrary.dll
+C:\Users\Lenovo IP3\SSMS\DigitalLibray\DigitalLibrary\Forma\bin\Debug\net6.0-windows\DigitalLibrary.pdb
+C:\Users\Lenovo IP3\SSMS\DigitalLibray\DigitalLibrary\Forma\obj\Debug\net6.0-windows\Forms.csproj.AssemblyReference.cache
+C:\Users\Lenovo IP3\SSMS\DigitalLibray\DigitalLibrary\Forma\obj\Debug\net6.0-windows\Forms.AddAuthor.resources
+C:\Users\Lenovo IP3\SSMS\DigitalLibray\DigitalLibrary\Forma\obj\Debug\net6.0-windows\Forms.AddBranch.resources
+C:\Users\Lenovo IP3\SSMS\DigitalLibray\DigitalLibrary\Forma\obj\Debug\net6.0-windows\Forms.AddEmployee.resources
+C:\Users\Lenovo IP3\SSMS\DigitalLibray\DigitalLibrary\Forma\obj\Debug\net6.0-windows\Forms.Add_Book.resources
+C:\Users\Lenovo IP3\SSMS\DigitalLibray\DigitalLibrary\Forma\obj\Debug\net6.0-windows\Forms.Admin.resources
+C:\Users\Lenovo IP3\SSMS\DigitalLibray\DigitalLibrary\Forma\obj\Debug\net6.0-windows\Forms.BorrowedBooksReport.resources
+C:\Users\Lenovo IP3\SSMS\DigitalLibray\DigitalLibrary\Forma\obj\Debug\net6.0-windows\Forms.ChangePassword.resources
+C:\Users\Lenovo IP3\SSMS\DigitalLibray\DigitalLibrary\Forma\obj\Debug\net6.0-windows\Forms.EditBook.resources
+C:\Users\Lenovo IP3\SSMS\DigitalLibray\DigitalLibrary\Forma\obj\Debug\net6.0-windows\Forms.EditProfile.resources
+C:\Users\Lenovo IP3\SSMS\DigitalLibray\DigitalLibrary\Forma\obj\Debug\net6.0-windows\Forms.Employe.resources
+C:\Users\Lenovo IP3\SSMS\DigitalLibray\DigitalLibrary\Forma\obj\Debug\net6.0-windows\Forms.EmployeeReport.resources
+C:\Users\Lenovo IP3\SSMS\DigitalLibray\DigitalLibrary\Forma\obj\Debug\net6.0-windows\Forms.IssueBook.resources
+C:\Users\Lenovo IP3\SSMS\DigitalLibray\DigitalLibrary\Forma\obj\Debug\net6.0-windows\Forma.LoginForm.resources
+C:\Users\Lenovo IP3\SSMS\DigitalLibray\DigitalLibrary\Forma\obj\Debug\net6.0-windows\Forms.MyAccount.resources
+C:\Users\Lenovo IP3\SSMS\DigitalLibray\DigitalLibrary\Forma\obj\Debug\net6.0-windows\Forms.Properties.Resources.resources
+C:\Users\Lenovo IP3\SSMS\DigitalLibray\DigitalLibrary\Forma\obj\Debug\net6.0-windows\Forms.ReturnBook.resources
+C:\Users\Lenovo IP3\SSMS\DigitalLibray\DigitalLibrary\Forma\obj\Debug\net6.0-windows\Forms.ViewBook.resources
+C:\Users\Lenovo IP3\SSMS\DigitalLibray\DigitalLibrary\Forma\obj\Debug\net6.0-windows\Forms.ViewBookEmp.resources
+C:\Users\Lenovo IP3\SSMS\DigitalLibray\DigitalLibrary\Forma\obj\Debug\net6.0-windows\Forms.csproj.GenerateResource.cache
+C:\Users\Lenovo IP3\SSMS\DigitalLibray\DigitalLibrary\Forma\obj\Debug\net6.0-windows\Forms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo IP3\SSMS\DigitalLibray\DigitalLibrary\Forma\obj\Debug\net6.0-windows\Forms.AssemblyInfoInputs.cache
+C:\Users\Lenovo IP3\SSMS\DigitalLibray\DigitalLibrary\Forma\obj\Debug\net6.0-windows\Forms.AssemblyInfo.cs
+C:\Users\Lenovo IP3\SSMS\DigitalLibray\DigitalLibrary\Forma\obj\Debug\net6.0-windows\Forms.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo IP3\SSMS\DigitalLibray\DigitalLibrary\Forma\obj\Debug\net6.0-windows\Forms.csproj.Up2Date
+C:\Users\Lenovo IP3\SSMS\DigitalLibray\DigitalLibrary\Forma\obj\Debug\net6.0-windows\Forms.dll
+C:\Users\Lenovo IP3\SSMS\DigitalLibray\DigitalLibrary\Forma\obj\Debug\net6.0-windows\refint\Forms.dll
+C:\Users\Lenovo IP3\SSMS\DigitalLibray\DigitalLibrary\Forma\obj\Debug\net6.0-windows\Forms.pdb
+C:\Users\Lenovo IP3\SSMS\DigitalLibray\DigitalLibrary\Forma\obj\Debug\net6.0-windows\Forms.genruntimeconfig.cache
+C:\Users\Lenovo IP3\SSMS\DigitalLibray\DigitalLibrary\Forma\obj\Debug\net6.0-windows\ref\Forms.dll
+C:\Users\Lenovo IP3\Desktop\DigitalLibray\DigitalLibrary\Forma\obj\Debug\net6.0-windows\Forms.sourcelink.json
